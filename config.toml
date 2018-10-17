@@ -1,4 +1,4 @@
-baseurl = "https://ukm-web3.netlify.com"
+baseurl = "https://ukm-web3.netlify.com/"
 title = "Universal"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
